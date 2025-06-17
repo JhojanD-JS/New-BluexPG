@@ -49,7 +49,7 @@ header img{
 .section1 p{
     color:white;
     font-size: 26px;
-    margin-left: 37%;
+    margin-left: 30%;
     margin-bottom: 40px;
     font-family: sans-serif;
 }
@@ -116,7 +116,7 @@ header img{
 .im1{
      width: 32%;
     margin-left: 30%;
-    margin-top: 4%;
+    margin-bottom: 90px;
     flex-wrap: wrap
 }
 
@@ -155,7 +155,7 @@ header img{
 }
 
 .texto h3{
-    font-size: 40px;
+    font-size: 33px;
     color: rgb(194, 81, 139);
     font-family:sans-serif;
     margin-bottom: 25px;
@@ -239,7 +239,7 @@ header img{
 }
 
 .section3 li{
-    font-size: 20px;
+    font-size: 17px;
     font-family: sans-serif;
     list-style: none;
     line-height: 30px;
@@ -256,7 +256,7 @@ header img{
     margin-top: 30px;
     margin-bottom: 30px;
     padding: 13px 50px 0px 50px;
-    text-align: justify;
+    text-align: center;
 }
 
 .buton{
@@ -674,6 +674,7 @@ footer p{
     .im1{
         width: 42%;
         margin-left: 8%;
+        margin-bottom: 10px;
     }
 
     .derecho{
